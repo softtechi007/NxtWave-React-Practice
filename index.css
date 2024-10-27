@@ -1,0 +1,28 @@
+.background-container {
+  background-color: #0f172a;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #f8fafc;
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px; /* Increased font size for the heading */
+  text-align: center;
+  margin-bottom: 20px; /* Adds some spacing below the heading */
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-styling {
+  width: 200px;
+  height: 200px;
+}
